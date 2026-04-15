@@ -1,5 +1,7 @@
 # Win11Debloat
 
+> 本文档汉化自 [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)
+
 [![GitHub Release](https://img.shields.io/github/v/release/Raphire/Win11Debloat?style=for-the-badge&label=最新版本)](https://github.com/Raphire/Win11Debloat/releases/latest)
 [![加入讨论](https://img.shields.io/badge/加入-讨论-2D9F2D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raphire/Win11Debloat/discussions)
 [![静态徽章](https://img.shields.io/badge/文档-_?style=for-the-badge&logo=bookstack&color=grey)](https://github.com/Raphire/Win11Debloat/wiki/)
